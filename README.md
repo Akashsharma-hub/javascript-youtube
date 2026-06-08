@@ -1,4 +1,6 @@
 # javascript-youtube
 A CODE REPO FOR JAVASCRIPT SERIES  
-Author-Akash Sharma
+Author-Akash Sharma 
+<br>
+Just for Learning 
 
